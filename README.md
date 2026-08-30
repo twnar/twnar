@@ -1,14 +1,17 @@
 # Hi 👋, I'm Tunar Ahmadzada
 
-### Math, AI & Computer Science
+### AI • Machine Learning • Computer Science
 
-- 🌱 I'm currently learning **Scikit-learn and PyTorch**
+High school student from Azerbaijan interested in
+Artificial Intelligence, Machine Learning,
+Computer Vision and Robotics.
+
+
+- 🌱 Building machine learning and computer vision projects using **Python, Scikit-Learn and PyTorch**.
 
 - 👯 I'm looking to collaborate on **competitions and hackathons**
 
 - 📫 How to reach me **twnarx@gmail.com**
-
-- ⚡ Fun fact **Cats are aliens**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1jnNQEx1RSqUxp5jC1Ukt305Wu5cykLE-/view?usp=sharing](https://drive.google.com/file/d/1jnNQEx1RSqUxp5jC1Ukt305Wu5cykLE-/view?usp=sharing)**
 
