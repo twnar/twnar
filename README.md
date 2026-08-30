@@ -1,31 +1,33 @@
 # Hi 👋, I'm Tunar Ahmadzada
 
-### AI • Machine Learning • Computer Science
+### Artificial Intelligence • Machine Learning • Computer Science
 
-- 🎓 High school student from Azerbaijan interested in
-Artificial Intelligence, Machine Learning,
-Mathematics and Robotics.
+* 🎓 High school student from Azerbaijan with a strong interest in **Artificial Intelligence, Machine Learning, Mathematics, and Robotics**.
 
-- 🌱 Building machine learning and computer vision projects using **Python, Scikit-Learn and PyTorch**.
+* 🌱 Developing **machine learning and computer vision projects** using **Python, Scikit-Learn, and PyTorch**.
 
-- 📫 How to reach me **twnarx@gmail.com**
+* 📫 How to reach me: **[twnarx@gmail.com](mailto:twnarx@gmail.com)**
 
-- 🌐 Portfolio: https://twnar.github.io
+* 🌐 Portfolio: https://twnar.github.io
 
-- 📄 Resume: https://twnar.github.io/resume.pdf
+* 📄 Resume: https://twnar.github.io/resume.pdf
 
-### Experience:
-  - International Olympiad in Artificial Intelligence (IOAI) — National Team Delegate & Participant
-  - NASA Space Apps Challenge 2026 — Local Lead, Mingachevir, Azerbaijan
-  - International Youth Mathematics Challenge (IYMC) — Ambassador, Baku, Azerbaijan
-  - Leva Science Community, Olympic Mathematics Camp — Participant, Türkiye (remote)
-  - Technovation — Volunteer Judge
+### Experience
+
+* **International Olympiad in Artificial Intelligence (IOAI)** — National Team Delegate & Participant
+* **NASA Space Apps Challenge 2026** — Local Lead, Mingachevir, Azerbaijan
+* **International Youth Mathematics Challenge (IYMC)** — Ambassador, Baku, Azerbaijan
+* **Leva Science Community, Olympic Mathematics Camp** — Participant, Türkiye (Remote)
+* **Technovation** — Volunteer Judge
+
 ### Awards & Competitions
-  - 🥇 International Olympiad in Artificial Intelligence (IOAI) — National Round, Gold Medal
-  - 🥈 International Philosophy Olympiad (IPO) — National Round, Silver Medal
-  - 🥉 International Economics Olympiad (IEO) — National Round, Bronze Medal
-  - 🥉 International Science and Engineering Fair (ISEF) — National Round, Bronze Medal
-  - 🏆 NASA Space Apps Challenge 2025 — Galactic Problem Solver
+
+* 🥇 **International Olympiad in Artificial Intelligence (IOAI)** — National Round, Gold Medal
+* 🥈 **International Philosophy Olympiad (IPO)** — National Round, Silver Medal
+* 🥉 **International Economics Olympiad (IEO)** — National Round, Bronze Medal
+* 🥉 **International Science and Engineering Fair (ISEF)** — National Round, Bronze Medal
+* 🏆 **NASA Space Apps Challenge 2025** — Galactic Problem Solver
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/twnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="twnar" height="30" width="40" /></a>
