@@ -10,7 +10,7 @@
 
 * 🌐 Portfolio: https://twnar.github.io
 
-* 📄 Resume: https://twnar.github.io/assets/000001_CV_Tunar_Ahmadzada.pdf
+* 📄 Resume: https://twnar.github.io/assets/00001_CV_Tunar_Ahmadzada.pdf
 
 ### Experience
 
