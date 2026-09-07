@@ -10,11 +10,12 @@
 
 * 🌐 Portfolio: https://twnar.github.io
 
-* 📄 Resume: https://twnar.github.io/assets/00001_CV_Tunar_Ahmadzada.pdf
+* 📄 Resume: https://twnar.github.io/00001_CV_Tunar_Ahmadzada.pdf
 
 ### Experience
 
 * **International Olympiad in Artificial Intelligence (IOAI)** — National Team Delegate & Participant
+* **The New York Academy of Sciences, The Junior Academy** — Member
 * **NASA Space Apps Challenge 2026** — Local Lead, Mingachevir, Azerbaijan
 * **International Youth Mathematics Challenge (IYMC)** — Ambassador, Baku, Azerbaijan
 * **Leva Science Community, Olympic Mathematics Camp** — Participant, Türkiye (Remote)
