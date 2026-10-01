@@ -43,5 +43,4 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=twnar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-contributor-stats.vercel.app/api?username=twnar&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-[![](https://komarev.com/ghpvc/?username=twnar&icon=0&color=2ea44f)](https://visitcount.itsvg.in)
-
+[![](https://komarev.com/ghpvc/?username=twnar&icon=0&color=000000)](https://visitcount.itsvg.in)
