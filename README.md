@@ -26,6 +26,7 @@
 * 🥈 **International Philosophy Olympiad (IPO)** — National Round, Silver Medal
 * 🥉 **International Economics Olympiad (IEO)** — National Round, Bronze Medal
 * 🥉 **International Science and Engineering Fair (ISEF)** — National Round, Bronze Medal
+* 📄 **International AI Challenge for Children and Youth** — Main Stage, Finalist (final results pending)
 * 🏆 **NASA Space Apps Challenge 2025** — Galactic Problem Solver
 
 <h3 align="left">Connect with me:</h3>
